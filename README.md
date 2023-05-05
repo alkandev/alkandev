@@ -12,6 +12,8 @@
   <a href="https://github.com/alkandeev" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://www.instagram.com/al.kan0/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-191717.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yd9wn4eb6bep381awx3ouap8p&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff)](https://spotify-github-profile.vercel.app/api/view?uid=yd9wn4eb6bep381awx3ouap8p&redirect=true)
+
 #
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yd9wn4eb6bep381awx3ouap8p&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff)](https://spotify-github-profile.vercel.app/api/view?uid=yd9wn4eb6bep381awx3ouap8p&redirect=true)
