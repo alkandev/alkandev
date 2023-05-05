@@ -16,11 +16,6 @@
 
 #
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yd9wn4eb6bep381awx3ouap8p&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff)](https://spotify-github-profile.vercel.app/api/view?uid=yd9wn4eb6bep381awx3ouap8p&redirect=true)
-
-#
-
-
 ``` 
 class Alkan {
     constructor(options) {
