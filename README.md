@@ -1,26 +1,22 @@
  <div align="center">
-<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=Welcome+To+My+Profile!;I'am+Lulu.;A+learning+new+things.">
+<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=Welcome+To+My+Profile!;I'am+Alkan.;A+learning+new+things.">
 </div>
 
 <div align="center">
-   <img width="15%" src="https://komarev.com/ghpvc/?username=luluwux&color=191717">
+   <img width="15%" src="https://komarev.com/ghpvc/?username=alkandevx&color=191717">
 </div>
 
 #
 
 <p align="center">
- <a href="https://discord.com/users/852103749228036136" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-191717.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/luluwux" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/31lmzhpy2migtudcggvvnrrth73y?si=ab96304453d248fa" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-191717.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a href="https://www.instagram.com/luluwux/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-191717.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-
-![Lulu Senpai](https://cdn.discordapp.com/attachments/1065215272530751529/1068998014062055444/Lulushu_Banners.png)
+  <a href="https://github.com/alkandeev" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://www.instagram.com/al.kan0/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-191717.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ``` 
 class Lulu {
     constructor(options) {
-        this.name = "Ada",
-        this.age = "17",
+        this.name = "Alkan",
+        this.age = "18",
         this.sex = "he / him",
         this.length = "1,75",
         this.job = "student",
@@ -30,11 +26,6 @@ class Lulu {
 export default Lulu
 ```   
 #
-
-<div align="center" >
- <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...4"> 
- <a href="https://discord.com/users/967730731835080744" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/967730731835080744?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...4"> 
-</div>
 
 ## Languages and Tools:
 
@@ -46,17 +37,17 @@ export default Lulu
 #
 
 <div align="center">
-<img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/luluwux?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700">
+<img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/alkandev?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700">
 </div>
 
 <div align="center">
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=luluwux&theme=dark&hide_border=true&stroke=ffffff&fire=ffffff&currStreakNum=DDDDDD&currStreakLabel=ffffff&ring=ffffff&background=DD272700">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=alkandev&theme=dark&hide_border=true&stroke=ffffff&fire=ffffff&currStreakNum=DDDDDD&currStreakLabel=ffffff&ring=ffffff&background=DD272700">
 </div>
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" img src="https://github-profile-trophy.vercel.app/?username=luluwux&theme=onestar&no-frame=true" alt="luluwux" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" img src="https://github-profile-trophy.vercel.app/?username=alkandev&theme=onestar&no-frame=true" alt="alkandev" /></a> </p>
 
 <div align="center">
-   <img width="50%" src="https://count.getloli.com/get/@:luluwux">
+   <img width="50%" src="https://count.getloli.com/get/@:alkandev">
 </div>
